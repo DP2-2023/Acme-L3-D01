@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-1" action="https://www.wikipedia.org/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-4" action="https://cookieclickercity.com/"/>
 		</acme:menu-option>
 

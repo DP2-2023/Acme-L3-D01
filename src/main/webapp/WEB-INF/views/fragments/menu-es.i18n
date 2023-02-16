@@ -18,7 +18,10 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link-1 = 78106808G: Jordano de Castro, Ignacio
 master.menu.anonymous.favourite-link-4 = 51210488E: García García, María del Carmen
+
+
 
 # master.menu.administrator ###################################################
 
