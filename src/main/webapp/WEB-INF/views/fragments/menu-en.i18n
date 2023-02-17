@@ -19,8 +19,10 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link-1 = 78106808G: Jordano de Castro, Ignacio
+master.menu.anonymous.favourite-link-3 = 54183282C: Vidal Tévar, Gabriel
 master.menu.anonymous.favourite-link-4 = 51210488E: García García, María del Carmen
-master.menu.anonymous.favourite-link-4 = 76584962E: Ulecia García, Javier
+master.menu.anonymous.favourite-link-5 = 76584962E: Ulecia García, Javier
+
 
 # master.menu.administrator ###################################################
 
